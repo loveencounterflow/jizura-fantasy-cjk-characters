@@ -41,6 +41,6 @@
 
 > Replying to @hardmaru and @StableDiffusion
 
-![](./Flxh_yjacAEUNIh.png)
+![](./Flxh_yjacAEUNIh.png|width=272px)
 ![](./FlxiOlYaUAcd22v.jpeg)
 
