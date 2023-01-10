@@ -43,3 +43,12 @@
 
 <img src='./Flxh_yjacAEUNIh.png' width='272' /><img src='./FlxiOlYaUAcd22v.jpeg' />
 
+## [twitter/skimcasual](https://twitter.com/skimcasual/status/1611596850347343875)
+
+> This is basically ai art of Xu Bing's Book from the Sky
+
+<img src='./Fl2Ky6_XoAIJJKD.jpeg' />
+
+## Links
+
+* https://de.wikipedia.org/wiki/Xu_Bing
