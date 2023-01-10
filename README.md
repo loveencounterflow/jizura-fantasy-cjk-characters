@@ -9,6 +9,8 @@
   - [twitter/hardmaru](#twitterhardmaru)
   - [twitter/enpitsu](#twitterenpitsu)
   - [twitter/rendicahya](#twitterrendicahya)
+  - [twitter/skimcasual](#twitterskimcasual)
+  - [Links](#links)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
