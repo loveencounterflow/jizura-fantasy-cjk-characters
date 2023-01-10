@@ -41,7 +41,5 @@
 
 > Replying to @hardmaru and @StableDiffusion
 
-<img src='./Flxh_yjacAEUNIh.png' width='272' />
-
-![](./FlxiOlYaUAcd22v.jpeg)
+<img src='./Flxh_yjacAEUNIh.png' width='272' /><img src='./FlxiOlYaUAcd22v.jpeg' />
 
