@@ -6,6 +6,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Fantasy CJK Characters](#fantasy-cjk-characters)
+  - [`https://twitter.com/hardmaru`](#httpstwittercomhardmaru)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
