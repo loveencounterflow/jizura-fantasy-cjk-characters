@@ -11,6 +11,7 @@
   - [twitter/rendicahya](#twitterrendicahya)
   - [twitter/skimcasual](#twitterskimcasual)
   - [Links](#links)
+  - [To Do](#to-do)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -54,3 +55,16 @@
 ## Links
 
 * https://de.wikipedia.org/wiki/Xu_Bing
+
+## To Do
+
+* u-cjk-xb/203f9 𠏹:⿰亻⿱覀国
+* jzr/e250 &jzr#xe250;:⿰亻⿱覀國
+* names for chemical elements
+* 熵: entropy
+
+
+
+
+
+
