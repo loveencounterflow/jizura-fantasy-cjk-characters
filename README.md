@@ -62,8 +62,12 @@
 * jzr/e250 &jzr#xe250;:⿰亻⿱覀國
 * names for chemical elements
 * 熵: entropy
-
-
+* 雙喜 u-cjk/56cd 囍:⿰喜喜
+* 招財進寶
+* duang
+* 𰻞𰻞麵 u-cjk-xg/30ede 𰻞𰻞麵 u-cjk-xg/30edd
+  * see https://zh.wikipedia.org/wiki/%F0%B0%BB%9D%F0%B0%BB%9D%E9%9D%A2
+  * [copy of the above]()
 
 
 
