@@ -100,6 +100,14 @@ By [拾萬字鏡 (@JUMANJIKYO)](https://twitter.com/jumanjikyo/status/8606344342
 
 Also see: [zh.wiktionary.org/zh-hant/十二律](https://zh.m.wiktionary.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%BE%8B)
 
+## Counting Rod Numerals
+
+𝍠𝍡𝍢𝍣𝍤𝍥𝍦𝍧𝍨𝍩𝍪𝍫𝍬𝍭𝍮𝍯𝍰𝍱𝍲𝍳𝍴𝍵𝍶𝍷𝍸
+
+## Erjian
+
+* https://babelstone.co.uk/Fonts/Han.html
+* https://www.babelstone.co.uk/Fonts/Erjian.html
 
 ## Links
 
