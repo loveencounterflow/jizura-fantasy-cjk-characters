@@ -199,11 +199,7 @@ Also see: [zh.wiktionary.org/zh-hant/十二律](https://zh.m.wiktionary.org/zh-h
 </td>
 <td title="Reserved" style="background-color:#CCCCCC;">
 </td></tr>
-<tr>
-<td colspan="17" style="background:#F8F8F8;font-size:small;text-align:left"><b>Notes</b>
-<dl><dd>1.<style data-mw-deduplicate="TemplateStyles:r1041539562">.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}</style><span class="citation wikicite" id="endnote_U1D360_as_of_Unicode_version"><b><a href="#ref_U1D360_as_of_Unicode_version">^</a></b></span> As of Unicode version 15.0</dd>
-<dd>2.<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1041539562"/><span class="citation wikicite" id="endnote_U1D360_grey"><b><a href="#ref_U1D360_grey">^</a></b></span> Grey areas indicate non-assigned code points</dd></dl>
-</td></tr></tbody></table>
+</tbody></table>
 
 ## Erjian
 
