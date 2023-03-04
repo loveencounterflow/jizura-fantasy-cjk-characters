@@ -11,6 +11,8 @@
   - [twitter/rendicahya](#twitterrendicahya)
   - [twitter/skimcasual](#twitterskimcasual)
   - [namu.wiki/w/국악/음률](#namuwikiw%EA%B5%AD%EC%95%85%EC%9D%8C%EB%A5%A0)
+  - [Counting Rod Numerals](#counting-rod-numerals)
+  - [Erjian](#erjian)
   - [Links](#links)
   - [To Do](#to-do)
 
@@ -104,10 +106,111 @@ Also see: [zh.wiktionary.org/zh-hant/十二律](https://zh.m.wiktionary.org/zh-h
 
 𝍠𝍡𝍢𝍣𝍤𝍥𝍦𝍧𝍨𝍩𝍪𝍫𝍬𝍭𝍮𝍯𝍰𝍱𝍲𝍳𝍴𝍵𝍶𝍷𝍸
 
+<table class="wikitable nounderlines" style="border-collapse:collapse;background:#FFFFFF;font-size:large;text-align:center">
+<tbody><tr>
+<td colspan="17" style="background:#F8F8F8;font-size:small"><b><a class="mw-selflink selflink">Counting Rod Numerals</a></b><sup class="reference" id="ref_U1D360_as_of_Unicode_version"><a href="#endnote_U1D360_as_of_Unicode_version">[1]</a></sup><sup class="reference" id="ref_U1D360_grey"><a href="#endnote_U1D360_grey">[2]</a></sup><br /><a rel="nofollow" class="external text" href="https://www.unicode.org/charts/PDF/U1D360.pdf">Official Unicode Consortium code chart</a> (PDF)
+</td></tr>
+<tr style="background:#F8F8F8;font-size:small">
+<td style="width:45pt">&#160;</td>
+<td style="width:20pt">0</td>
+<td style="width:20pt">1</td>
+<td style="width:20pt">2</td>
+<td style="width:20pt">3</td>
+<td style="width:20pt">4</td>
+<td style="width:20pt">5</td>
+<td style="width:20pt">6</td>
+<td style="width:20pt">7</td>
+<td style="width:20pt">8</td>
+<td style="width:20pt">9</td>
+<td style="width:20pt">A</td>
+<td style="width:20pt">B</td>
+<td style="width:20pt">C</td>
+<td style="width:20pt">D</td>
+<td style="width:20pt">E</td>
+<td style="width:20pt">F
+</td></tr>
+<tr>
+<td style="background:#F8F8F8;font-size:small">U+1D36x
+</td>
+<td title="U+1D360: COUNTING ROD UNIT DIGIT ONE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A0" class="mw-redirect" title="𝍠">&#x1d360;</a></span>
+</td>
+<td title="U+1D361: COUNTING ROD UNIT DIGIT TWO"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A1" class="mw-redirect" title="𝍡">&#x1d361;</a></span>
+</td>
+<td title="U+1D362: COUNTING ROD UNIT DIGIT THREE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A2" class="mw-redirect" title="𝍢">&#x1d362;</a></span>
+</td>
+<td title="U+1D363: COUNTING ROD UNIT DIGIT FOUR"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A3" class="mw-redirect" title="𝍣">&#x1d363;</a></span>
+</td>
+<td title="U+1D364: COUNTING ROD UNIT DIGIT FIVE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A4" class="mw-redirect" title="𝍤">&#x1d364;</a></span>
+</td>
+<td title="U+1D365: COUNTING ROD UNIT DIGIT SIX"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A5" class="mw-redirect" title="𝍥">&#x1d365;</a></span>
+</td>
+<td title="U+1D366: COUNTING ROD UNIT DIGIT SEVEN"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A6" class="mw-redirect" title="𝍦">&#x1d366;</a></span>
+</td>
+<td title="U+1D367: COUNTING ROD UNIT DIGIT EIGHT"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A7" class="mw-redirect" title="𝍧">&#x1d367;</a></span>
+</td>
+<td title="U+1D368: COUNTING ROD UNIT DIGIT NINE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A8" class="mw-redirect" title="𝍨">&#x1d368;</a></span>
+</td>
+<td title="U+1D369: COUNTING ROD TENS DIGIT ONE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%A9" class="mw-redirect" title="𝍩">&#x1d369;</a></span>
+</td>
+<td title="U+1D36A: COUNTING ROD TENS DIGIT TWO"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%AA" class="mw-redirect" title="𝍪">&#x1d36a;</a></span>
+</td>
+<td title="U+1D36B: COUNTING ROD TENS DIGIT THREE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%AB" class="mw-redirect" title="𝍫">&#x1d36b;</a></span>
+</td>
+<td title="U+1D36C: COUNTING ROD TENS DIGIT FOUR"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%AC" class="mw-redirect" title="𝍬">&#x1d36c;</a></span>
+</td>
+<td title="U+1D36D: COUNTING ROD TENS DIGIT FIVE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%AD" class="mw-redirect" title="𝍭">&#x1d36d;</a></span>
+</td>
+<td title="U+1D36E: COUNTING ROD TENS DIGIT SIX"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%AE" class="mw-redirect" title="𝍮">&#x1d36e;</a></span>
+</td>
+<td title="U+1D36F: COUNTING ROD TENS DIGIT SEVEN"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%AF" class="mw-redirect" title="𝍯">&#x1d36f;</a></span>
+</td></tr>
+<tr>
+<td style="background:#F8F8F8;font-size:small">U+1D37x
+</td>
+<td title="U+1D370: COUNTING ROD TENS DIGIT EIGHT"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B0" class="mw-redirect" title="𝍰">&#x1d370;</a></span>
+</td>
+<td title="U+1D371: COUNTING ROD TENS DIGIT NINE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B1" class="mw-redirect" title="𝍱">&#x1d371;</a></span>
+</td>
+<td title="U+1D372: IDEOGRAPHIC TALLY MARK ONE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B2" class="mw-redirect" title="𝍲">&#x1d372;</a></span>
+</td>
+<td title="U+1D373: IDEOGRAPHIC TALLY MARK TWO"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B3" class="mw-redirect" title="𝍳">&#x1d373;</a></span>
+</td>
+<td title="U+1D374: IDEOGRAPHIC TALLY MARK THREE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B4" class="mw-redirect" title="𝍴">&#x1d374;</a></span>
+</td>
+<td title="U+1D375: IDEOGRAPHIC TALLY MARK FOUR"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B5" class="mw-redirect" title="𝍵">&#x1d375;</a></span>
+</td>
+<td title="U+1D376: IDEOGRAPHIC TALLY MARK FIVE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B6" class="mw-redirect" title="𝍶">&#x1d376;</a></span>
+</td>
+<td title="U+1D377: TALLY MARK ONE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B7" class="mw-redirect" title="𝍷">&#x1d377;</a></span>
+</td>
+<td title="U+1D378: TALLY MARK FIVE"><span style="font-family:Noto Sans Symbols2;font-size:100%;color:black;background-color:transparent;;"><a href="/wiki/%F0%9D%8D%B8" class="mw-redirect" title="𝍸">&#x1d378;</a></span>
+</td>
+<td title="Reserved" style="background-color:#CCCCCC;">
+</td>
+<td title="Reserved" style="background-color:#CCCCCC;">
+</td>
+<td title="Reserved" style="background-color:#CCCCCC;">
+</td>
+<td title="Reserved" style="background-color:#CCCCCC;">
+</td>
+<td title="Reserved" style="background-color:#CCCCCC;">
+</td>
+<td title="Reserved" style="background-color:#CCCCCC;">
+</td>
+<td title="Reserved" style="background-color:#CCCCCC;">
+</td></tr>
+<tr>
+<td colspan="17" style="background:#F8F8F8;font-size:small;text-align:left"><b>Notes</b>
+<dl><dd>1.<style data-mw-deduplicate="TemplateStyles:r1041539562">.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}</style><span class="citation wikicite" id="endnote_U1D360_as_of_Unicode_version"><b><a href="#ref_U1D360_as_of_Unicode_version">^</a></b></span> As of Unicode version 15.0</dd>
+<dd>2.<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1041539562"/><span class="citation wikicite" id="endnote_U1D360_grey"><b><a href="#ref_U1D360_grey">^</a></b></span> Grey areas indicate non-assigned code points</dd></dl>
+</td></tr></tbody></table>
+
 ## Erjian
 
 * https://babelstone.co.uk/Fonts/Han.html
 * https://www.babelstone.co.uk/Fonts/Erjian.html
+* https://www.babelstone.co.uk/Blog/2009/10/modest-proposal-to-encode-ultra.html
+
 
 ## Links
 
