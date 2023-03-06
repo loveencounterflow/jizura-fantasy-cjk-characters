@@ -11,6 +11,7 @@
   - [twitter/rendicahya](#twitterrendicahya)
   - [twitter/skimcasual](#twitterskimcasual)
   - [namu.wiki/w/국악/음률](#namuwikiw%EA%B5%AD%EC%95%85%EC%9D%8C%EB%A5%A0)
+  - [Old Chinese Lute Notation](#old-chinese-lute-notation)
   - [Counting Rod Numerals](#counting-rod-numerals)
   - [Erjian](#erjian)
   - [Links](#links)
@@ -102,9 +103,22 @@ By [拾萬字鏡 (@JUMANJIKYO)](https://twitter.com/jumanjikyo/status/8606344342
 
 Also see: [zh.wiktionary.org/zh-hant/十二律](https://zh.m.wiktionary.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%BE%8B)
 
+## Old Chinese Lute Notation
+
+* https://twitter.com/BabelStone/status/1057237047013007360
+* Proposal to encode old Chinese lute notation.pdf
+
+
 ## Counting Rod Numerals
 
-𝍠𝍡𝍢𝍣𝍤𝍥𝍦𝍧𝍨𝍩𝍪𝍫𝍬𝍭𝍮𝍯𝍰𝍱𝍲𝍳𝍴𝍵𝍶𝍷𝍸
+𝍠𝍡𝍢𝍣𝍤𝍥𝍦𝍧𝍨
+
+𝍩𝍪𝍫𝍬𝍭𝍮𝍯𝍰𝍱
+
+𝍩𝍪𝍫𝍬𝍸
+
+𝍲𝍳𝍴𝍵𝍶
+𝍷
 
 <table class="wikitable nounderlines" style="border-collapse:collapse;background:#FFFFFF;font-size:large;text-align:center">
 <tbody><tr>
