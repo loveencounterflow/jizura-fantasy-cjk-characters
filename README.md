@@ -14,6 +14,7 @@
   - [Old Chinese Lute Notation](#old-chinese-lute-notation)
   - [Counting Rod Numerals](#counting-rod-numerals)
   - [Erjian](#erjian)
+  - [Looks Happy, Is Bitter](#looks-happy-is-bitter)
   - [Links](#links)
   - [To Do](#to-do)
 
@@ -220,6 +221,52 @@ Also see: [zh.wiktionary.org/zh-hant/十二律](https://zh.m.wiktionary.org/zh-h
 * https://babelstone.co.uk/Fonts/Han.html
 * https://www.babelstone.co.uk/Fonts/Erjian.html
 * https://www.babelstone.co.uk/Blog/2009/10/modest-proposal-to-encode-ultra.html
+
+
+## Looks Happy, Is Bitter
+
+<img src='./onlybitter.jpg' />
+
+* [*The reality of Happiness is Bitterness* by V. Mair,
+  2023-03-09](https://languagelog.ldc.upenn.edu/nll/?p=58160)
+
+> The actual transcription and translation of the first two lines and their one line English mistranslation should be:
+>
+> Shénme dōu shì jiǎ de
+>
+> Zhǐyǒu kǔ shì zhēn de
+>
+> 什么都是假的
+>
+> 只有苦是真的
+>
+> Everything is false
+>
+> Only suffering is real
+>
+> The next big, composite, quadripartite glyph consists of four "kǔ 苦" ("bitterness; suffering") stacked side by side and on top of each other
+>
+> 苦苦
+>
+> 苦苦
+>
+> making them look somewhat like the famous "double happiness" character that we discussed in detail several times before (see the "Selected readings" below).
+>
+> 囍
+>
+> Depending on your point of view, that is pronounced xǐ, xǐxǐ, or shuāngxǐ (maybe someone else even has another way to pronounce it).  No matter how it's pronounced, I think everyone would agree that it means "double happiness" (see also here, here, and here).
+>
+> The line at the bottom reads:
+>
+> Kàn qǐlái shì xǐ      qíshí shì kǔ
+>
+> 看起来是喜    其实是苦
+>
+> It looks like happiness, but it's actually bitterness
+>
+> I don't know who would circulate such a notice, and under what circumstances, even if it were properly translated.
+
+
 
 
 ## Links
